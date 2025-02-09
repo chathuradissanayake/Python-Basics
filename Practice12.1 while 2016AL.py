@@ -1,0 +1,10 @@
+manu = [10.00,12.00,15.00,10.00,25.00,45.00,50.00,25.00,10.00,12.00]
+price = 0
+total = 0
+number = 1
+while number !=0:
+    number = int(input("Enter the Food Number "))
+    if number !=0:
+        price = manu[number-1]
+        total += price
+print("Total Price = Rs",total)
