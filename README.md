@@ -1,4 +1,4 @@
-# Python Practice Repository
+# Python Practices Basics
 
  The exercises cover fundamental programming concepts, including conditional statements (`if`), loops (`while`, `for`), and other essential Python functionalities.
 
